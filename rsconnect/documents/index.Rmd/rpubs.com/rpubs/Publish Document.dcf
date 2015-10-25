@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/121007/b26942c0830849f69a1e5bcc956f5350
+url: http://rpubs.com/Aaron_Ran_An/121007
+when: 1445789950.68674
