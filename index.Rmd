@@ -25,6 +25,8 @@ I always purchase ticket on the Fandango App on my phone, and their ratings in s
 
 In order to compare ratings from different movie rating website, I made a Shiny App to explore the data. Please find the App here: 
 
+[Shiny App: Review the Movie Rating Websites](https://aaronan.shinyapps.io/Fandango_Movie_Rating_JHU_Course_Proj)
+
 ---
 
 ## Rating Distribution Overview
